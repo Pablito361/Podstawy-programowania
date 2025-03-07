@@ -17,6 +17,7 @@ namespace Zadanie_7
             b = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("{0}/{1}={2}r{3}", a, b, a / b, a % b);
             Console.ReadKey(true);
+
         }
     }
 }
